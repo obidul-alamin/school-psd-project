@@ -1,0 +1,391 @@
+@media(max-width: 1399px){
+nav .container .navbar-collapse .navbar-nav .nav-item .nav-link {
+    font-size: 20px;
+    padding: 8px 20px;
+}
+nav .container .navbar-brand img {
+    width: 260px;
+}
+.learn-section .container .row .col-xl-6 .content h1 {
+    font-size: 55px;
+}
+.learn-section .container .row .col-xl-6 .content h5 {
+    margin-bottom: 16px;
+}
+.learn-section .container .row .col-xl-6 .content p {
+    font-size: 23px;
+}
+.courses-section .card .card-body a {
+    padding: 7px 35px;
+}
+.courses-section .card .card-body ul li img {
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+.testimonial-section p {
+    font-size: 19px;
+}
+footer p {
+   font-weight: 400;
+}
+footer h3 {
+    font-weight: 600;
+}
+footer ul li {
+    font-weight: 400;
+}
+}
+@media(max-width: 1199px){
+nav .container .navbar-collapse .navbar-nav .nav-item .nav-link {
+    font-size: 15px;
+    padding: 8px 20px;
+}
+nav .container .navbar-collapse .navbar-nav .nav-item .nav-link {
+    height: 35px;
+    line-height: 15px;
+    width: 90px;
+}
+.learn-section .container .row .col-xl-6 .content h1 {
+    font-size: 45px;
+}
+.learn-section .container .row .col-xl-6 .content p {
+    font-size: 18px;
+}
+.learn-section .container .row .col-xl-6 .content .btn {
+    height: 42px;
+    width: 145px;
+    font-size: 15px;
+}
+.courses-section h1 {
+    font-size: 40px;
+    margin-bottom: 75px;
+}
+.courses-section .card .card-body h4 {
+    font-size: 24px;
+}
+.courses-section .card .card-body p {
+    font-size: 17px;
+}
+.courses-section .card .card-body a {
+    margin-left: 8px;
+    font-size: 13px;
+    padding: 3px 20px !important;
+    line-height: 20px;
+}
+.courses-section .card img {
+    padding: 5px 20px !important;
+}
+.courses-section .card .card-body ul li span {
+    font-size: 13px;
+    margin-left: -20px;
+    margin-right: 4px;
+}
+.testimonial-section h1 {
+    font-size: 40px;
+    margin-top: 0 !important;
+}
+.testimonial-section p {
+    font-size: 15px;
+}
+footer p {
+    font-size: 14px;
+}
+footer h3 {
+    font-weight: 500;
+    font-size: 20px;
+}
+footer ul li {
+    font-weight: 300;
+    font-size: 14px;
+}
+footer .copyright p {
+    padding-top: 100px;
+}
+footer {
+    padding-top: 70px;
+    padding-bottom: 40px;
+}
+}
+@media(max-width: 991px){
+.navbar-collapse {
+    display: inline !important;
+}
+.navbar-nav {
+    flex-direction: row;
+}
+.navbar-toggler {
+    display: none;
+}
+.navbar-nav {
+    flex-direction: row;
+    margin-left: 244px !important;
+    margin-top: -44px;
+}
+nav .container .navbar-brand img {
+    width: 190px;
+    padding-top: 25px;
+}
+nav .container .navbar-collapse .navbar-nav .nav-item .nav-link {
+    height: 28px;
+    line-height: 9px;
+    width: 85px;
+    font-size: 13px;
+}
+.content h5 {
+    margin-bottom: 6px !important;
+    font-size: 16px;
+}
+.learn-section .container .row .col-xl-6 .content h1 {
+    font-size: 35px;
+}
+.learn-section .container .row .col-xl-6 .content p {
+    font-size: 14px;
+}
+.learn-section .container .row .col-xl-6 .content .btn {
+    height: 35px;
+    width: 117px;
+    font-size: 14px;
+    line-height: 17px;
+    margin-top: -6px;
+}
+.learn-section {
+    padding-bottom: 60px;
+}
+.student-section {
+    padding-top: 50px !important;
+        padding-bottom: 40px;
+}
+.student-section .container .row .col-xl-3 .color h3 {
+    margin: 10px 0 0;
+    font-size: 17px;
+}
+.student-section .container .row .col-xl-3 .color p {
+    font-size: 13px;
+    padding-bottom: 16px;
+}
+.student-section .container .row .col-xl-3 .color .book {
+    padding: 18px 0 0px;
+}
+.courses-section h1 {
+    font-size: 32px;
+    margin-bottom: 65px;
+}
+.courses-section .card .card-body h4 {
+    font-size: 17px;
+}
+.courses-section .card .card-body p {
+    font-size: 15px;
+    margin-top: -6px !important;
+}
+.courses-section .card .card-body a {
+    margin-left: 9px;
+    font-size: 11px;
+    padding: 0px 11px !important;
+    line-height: 18px;
+    margin-top: -25px;
+}
+.courses-section .card img {
+    padding: 0px 18px !important;
+}
+.courses-section .card .card-body ul li span {
+    font-size: 11px;
+    margin-left: -15px;
+}
+.testimonial-section p {
+    font-size: 11px;
+}
+footer .copyright p {
+    padding-top: 70px;
+}
+footer ul li {
+    font-size: 13px;
+}
+}
+@media(max-width: 767px){
+nav .container .navbar-brand img {
+    width: 150px;
+}
+.navbar-nav {
+    flex-direction: row;
+    margin-left: 150px !important;
+}
+nav .container .navbar-collapse .navbar-nav .nav-item .nav-link {
+    height: 24px;
+    line-height: 4px;
+    width: 75px;
+    font-size: 9px;
+}
+.learn-section .container .row .col-xl-6 .content h1 {
+    font-size: 20px;
+}
+.learn-section .container .row .col-xl-6 .content h5 {
+    margin-bottom: 1px !important;
+    font-size: 12px;
+}
+.learn-section .container .row .col-xl-6 .content p {
+    font-size: 10px;
+    margin-top: -5px;
+}
+.learn-section .container .row .col-xl-6 .content .btn {
+    height: 23px;
+    width: 91px;
+    font-size: 9px;
+    line-height: 4px;
+    margin-top: -24px;
+}
+.student-section .container .row .col-xl-3 .color .book img {
+    height: 130px;
+}
+.student-section .container .row .col-xl-3 .color h3 {
+    font-size: 14px;
+}
+.courses-section h1 {
+    font-size: 30px;
+}
+.courses-section .card img {
+    padding: 13px 13px !important;
+}
+.card-body {
+    padding: 1px 6px !important;
+}
+.courses-section .card .card-body h4 {
+    font-size: 13px;
+}
+.nav {
+    display: none;
+}
+.courses-section .card .card-body p {
+    font-size: 13px;
+}
+.testimonial-section h1 {
+    font-size: 30px;
+    margin-top: -20px !important;
+    margin-bottom: 45px;
+}
+.testimonial-section p {
+    font-size: 9px;
+}
+footer p {
+    font-size: 11px;
+    margin-top: 9px;
+}
+footer .copyright p {
+    padding-top: 50px;
+}
+footer {
+    padding-bottom: 20px;
+}
+}
+@media(max-width: 575px){
+nav .container .navbar-brand img {
+    width: 105px;
+    padding-top: 0px;
+}
+.navbar-nav {
+    flex-direction: column;
+    margin-left: 0 !important;
+    align-items: center !important;
+    margin-top: 0px;
+}
+.navbar-collapse {
+    display: inline !important;
+}
+.navbar-toggler {
+    display: flex;
+}
+.learn-section .container .row .col-xl-6 .content {
+    margin-top: -70px;
+    text-align: center;
+}
+.courses-section h1 {
+    font-size: 26px;
+    margin-bottom: 30px;
+}
+.student-section {
+    padding-bottom: 10px;
+}
+.courses-section .card {
+    margin-bottom: 20px;
+}
+.testimonial-section h1 {
+    margin-top: -50px !important;
+}
+.testimonial-section p {
+    margin-top: 30px;
+    margin-bottom: -25px;
+}
+footer {
+    padding-top: 30px;
+}
+footer h3 {
+    text-align: center;
+}
+footer ul li {
+    text-align: center;
+    font-size: 10px;
+}
+footer .copyright p {
+    padding-top: 0px;
+}
+footer p {
+    font-size: 10px;
+    margin-top: 0px;
+}
+}
+@media(max-width: 300px){
+.navbar-toggler-icon {
+    display: none;
+}
+.learn-section .container .row .col-xl-6 .content h5 {
+    margin-bottom: 8px !important;
+    font-size: 12px;
+}
+.learn-section .container .row .col-xl-6 .content h1 {
+    font-size: 12px;
+}
+.learn-section .container .row .col-xl-6 .content p {
+    font-size: 8px;
+    margin-top: -3px;
+}
+.learn-section {
+    padding-bottom: 40px;
+}
+.student-section {
+    padding-bottom: 8px;
+    margin-top: -25px;
+}
+.courses-section h1 {
+    font-size: 21px;
+}
+.testimonial-section p {
+    font-size: 7px;
+}
+.testimonial-section img{
+	width: 100px;
+}
+.col-sm-2 {
+	text-align: center;
+}
+.testimonial-section h1 {
+    font-size: 22px;
+}
+footer p {
+    font-size: 8px;
+    text-align: center;
+    margin-top: 0px;
+}
+footer h3 {
+    font-weight: 400;
+    font-size: 20px;
+    margin-bottom: 0;
+}
+ul{
+	margin-bottom: 0;
+}
+footer ul li {
+   font-size: 8px;
+}
+footer .copyright p {
+    padding-top: 8px;
+}
+}

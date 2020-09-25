@@ -1,0 +1,5 @@
+@mixin transition($sc, $ef){
+	transition: all $sc $ef;
+	-webkit-transition: all $sc $ef;
+	-moz-transition: all $sc $ef;	
+}
